@@ -1,0 +1,9 @@
+footer {
+  text-align: center;
+}
+.footer_div {
+  background-color: var(--color-lighter);
+  color: white;
+  padding: 2em;
+  font-size: var(--font-size-text);
+}
